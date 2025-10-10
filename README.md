@@ -21,20 +21,20 @@
 
 ## 📫 Connect with Me
 <div align="center">
-  <a href="mailto:krishnachauhan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:krishnachauhan09875@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="http://www.linkedin.com/in/krishnapratapsinghchauhan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/krishnapschauhan/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://github.com/krishnapschauhan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://krishnapschauhan.github.io/my-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googledrive&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </div>
 
@@ -65,11 +65,3 @@
 
 ---
 
-## 📈 Activity Graph
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnapschauhan&bg_color=000000&color=ffffff&line=ffffff&point=bbbbbb&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-> *“Code with clarity, build with purpose, and keep learning every day.” – Krishna Chauhan*
