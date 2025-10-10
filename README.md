@@ -1,81 +1,93 @@
-# Hi 👋, I'm Krishna
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=krishnapschauhan.krishnapschauhan" />
 
-### Building the web, beautifully.
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=40&center=true&vCenter=true&width=1000&height=70&duration=2500&pause=1000&lines=Hi+There!+👋;+I+am+Krishna+Chauhan!+😉;"
+    alt="greeting"
+  />
+</h1>
 
----
+<p align="center" style="line-height:1;width:1000px;">
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=30&center=true&vCenter=true&width=1000&height=50&duration=2500&pause=1000&lines=Frontend+Developer+|+React+|+Node.js+|+Python"
+    alt="intro"
+  />
+</p>
 
-## 🌱 I’m currently learning
-- DSA & DevOps
+<br/>
 
----
+<div align="center">
 
-## 💬 Ask me about
-- Web Development
+👋 Hey there! I’m **Krishna Chauhan**, a frontend developer from India 🇮🇳 passionate about creating clean, interactive, and scalable web applications.  
 
----
+🔭 Currently leveling up my **DSA & DevOps skills**.  
 
-## 📫 How to reach me
-- 📧 krishnachauhan@gmail.com
+🌱 Exploring **Next.js, Tailwind CSS, PostgreSQL, and OpenCV**.  
 
----
+💬 Ask me anything about **Web Development, Python, React, Node.js, or Data Processing**.  
 
-## 👨‍💻 Portfolio
-- 🌐 [My Portfolio](https://krishnapschauhan.github.io/my-portfolio/)
+🤝 Open to **collaborations on full-stack projects, AI tools, or web apps**.  
 
----
+</div>
 
-## 📄 Resume
-- [Resume](https://drive.google.com/file/d/1FKKXhDfNrv0ErA4Wy7AuuLA2KO5lZ9ap/view?usp=drivesdk)
+<br/>
 
----
+<div align="center"> 
+  <a href="mailto:krishnachauhan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="http://www.linkedin.com/in/krishnapratapsinghchauhan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/krishnapschauhan/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://github.com/krishnapschauhan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://krishnapschauhan.github.io/my-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</div>
 
-## 💻 Skills
+<hr/>
 
-### Programming & Scripting
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<h2 align="center">🛠 Skills & Tools 🛠</h2>
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div align="center">
 
-### Backend & Databases
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- Row 1: Web Development -->
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,express,tailwind,bootstrap,postgresql,mysql,python,opencv,pandas,numpy" /><br>
 
-### Data & AI
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<!-- Row 2: Tools -->
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" /><br>
 
-### Tools
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</div>
 
----
+<hr/>
 
-## 🌐 Socials
-[![GitHub](https://img.shields.io/badge/GitHub-krishnapschauhan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/krishnapschauhan)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna%20Chauhan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/krishnapratapsinghchauhan)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-krishnapschauhan-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/krishnapschauhan/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=flat-square&logo=googledrive&logoColor=white)](https://krishnapschauhan.github.io/my-portfolio/)
+<h2 align="center">📊 GitHub Stats</h2>
 
----
+<div align="center">
 
-## 📊 GitHub Stats
+<img width=650 src="https://github-readme-stats.vercel.app/api?username=krishnapschauhan&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishnapschauhan&show_icons=true&theme=radical&count_private=true)
+<img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapschauhan&langs_count=10&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapschauhan&layout=compact&theme=radical)
+<img width=650 src="https://github-readme-streak-stats.herokuapp.com/?user=krishnapschauhan&count_private=true&theme=radical&border_radius=10" alt="Streak Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krishnapschauhan&theme=radical)
+<img width=650 src="https://github-profile-trophy.vercel.app/?username=krishnapschauhan&theme=radical&no-frame=true&no-bg=true&margin-w=5" alt="Trophies" />
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=krishnapschauhan&theme=radical&no-frame=true&no-bg=true&margin-w=5)
+</div>
+
+<hr/>
+
+<h2 align="center">📈 Activity Graph</h2>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnapschauhan&bg_color=0D1117&color=58A6FF&line=238636&point=1F6FEB&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+<hr/>
+
+> 
