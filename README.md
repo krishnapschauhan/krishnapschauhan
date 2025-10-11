@@ -42,26 +42,19 @@
 
 ## ⚒ Skills & Tech Stack
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,express,tailwind,postgresql,mysql,python,opencv,pandas,numpy" /><br>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" /><br>
-
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,express,tailwind,postgresql,mysql,python,opencv,pandas,numpy" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" /><br>
 </div>
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
+  <img width="650" src="https://github-readme-stats.vercel.app/api?username=krishnapschauhan&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
 
-<img width=650 src="https://github-readme-stats.vercel.app/api?username=krishnapschauhan&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapschauhan&langs_count=10&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
 
-<img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapschauhan&langs_count=10&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  <img width="650" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnapschauhan&count_private=true&theme=dark&border_radius=10" alt="Streak Stats" />
 
-<img width=650 src="https://github-readme-streak-stats.herokuapp.com/?user=krishnapschauhan&count_private=true&theme=dark&border_radius=10" alt="Streak Stats" />
-
-<img width=650 src="https://github-profile-trophy.vercel.app/?username=krishnapschauhan&theme=dark&no-frame=true&no-bg=true&margin-w=5" alt="Trophies" />
-
+  <img width="650" src="https://github-profile-trophy.vercel.app/?username=krishnapschauhan&theme=dark&no-frame=true&no-bg=true&margin-w=5" alt="Trophies" />
 </div>
-
----
-
