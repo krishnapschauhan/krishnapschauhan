@@ -48,6 +48,14 @@
 
 ---
 
+## 🎮 Fun Animation
+<div align="center">
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" alt="Fun Game Animation" width="400"/>
+  <p>Enjoy a sneak peek of my coding fun!</p>
+</div>
+
+---
+
 ## 📊 GitHub Stats
 <div align="center">
   <img width="650" src="https://github-readme-stats.vercel.app/api?username=krishnapschauhan&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
