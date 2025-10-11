@@ -50,7 +50,7 @@
 
 ## 🎮 Fun Animation
 <div align="center">
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" alt="Fun Game Animation" width="400"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Animation" width="400"/>
   <p>Enjoy a sneak peek of my coding fun!</p>
 </div>
 
