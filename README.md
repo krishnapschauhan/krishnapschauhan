@@ -33,7 +33,7 @@
   <a href="https://github.com/krishnapschauhan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://krishnapschauhan.github.io/my-portfolio/" target="_blank">
+  <a href="https://creative-krishna.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" />
   </a>
 </div>
