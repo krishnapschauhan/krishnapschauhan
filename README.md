@@ -49,10 +49,12 @@
 ---
 
 ## 🎮 Fun Animation
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding Animation" width="400"/>
-  <p>Enjoy a sneak peek of my coding fun!</p>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Python+%26+Node.js;Web+%26+Data+Enthusiast&center=true&size=24" alt="Typing Animation" />
+  <br>
+  Enjoy a sneak peek of my coding journey!
+</p>
+
 
 ---
 
