@@ -4,9 +4,9 @@
 </p>
 
 <!-- Intro -->
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="60px" />
+<h1 align="center" style="font-size: 42px; display: flex; align-items: center; justify-content: center; gap: 10px;">
   Hi 👋, I'm Krishna Chauhan
+  <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="70px" />
 </h1>
 
 <p align="center">
@@ -30,6 +30,7 @@
 ---
 
 ## ⚒ Skills & Tech Stack
+
 <table align="center">
   <tr>
     <th>Category</th>
@@ -38,43 +39,31 @@
   <tr>
     <td><b>Frontend</b></td>
     <td>
-      <img src="/html.svg" width="30" alt="HTML" /> HTML &nbsp;
-      <img src="/css.svg" width="30" alt="CSS" /> CSS &nbsp;
-      <img src="/js.svg" width="30" alt="JavaScript" /> JavaScript &nbsp;
-      <img src="/tailwind.svg" width="30" alt="Tailwind" /> Tailwind CSS &nbsp;
-      <img src="/react.svg" width="30" alt="React" /> React.js &nbsp;
-      <img src="/nextjs.svg" width="30" alt="Next.js" /> Next.js
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,nextjs" />
     </td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
     <td>
-      <img src="/nodejs.svg" width="30" alt="Node.js" /> Node.js &nbsp;
-      <img src="/express.svg" width="30" alt="Express" /> Express.js &nbsp;
-      <img src="/python.svg" width="30" alt="Python" /> Python
+      <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
     </td>
   </tr>
   <tr>
     <td><b>Databases</b></td>
     <td>
-      <img src="/mysql.svg" width="30" alt="MySQL" /> MySQL &nbsp;
-      <img src="/postgresql.svg" width="30" alt="PostgreSQL" /> PostgreSQL
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
     </td>
   </tr>
   <tr>
     <td><b>Tools</b></td>
     <td>
-      <img src="/git.svg" width="30" alt="Git" /> Git &nbsp;
-      <img src="/github.svg" width="30" alt="GitHub" /> GitHub &nbsp;
-      <img src="/postman.svg" width="30" alt="Postman" /> Postman
+      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
     </td>
   </tr>
   <tr>
     <td><b>Libraries</b></td>
     <td>
-      <img src="/opencv.svg" width="30" alt="OpenCV" /> OpenCV &nbsp;
-      <img src="/python.svg" width="30" alt="Pandas" /> Pandas &nbsp;
-      <img src="/python.svg" width="30" alt="NumPy" /> NumPy
+      <img src="https://skillicons.dev/icons?i=opencv" /> &nbsp; Pandas &nbsp; NumPy
     </td>
   </tr>
 </table>
@@ -121,17 +110,6 @@
     <td><a href="https://github.com/krishnapschauhan/expense-tracker">View Code</a></td>
   </tr>
 </table>
-
----
-
-## 🎮 Fun Animation
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;Python+%26+Node.js;Web+%26+Data+Enthusiast&center=true&size=24" alt="Typing Animation" />
-</p>
-
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/238200842-406eb3e6-caba-401d-93c8-e0a7941c84b9.gif" width="400" alt="Anime Coding GIF" />
-</p>
 
 ---
 
