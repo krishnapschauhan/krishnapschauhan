@@ -27,7 +27,6 @@
 - Python and OpenCV projects  
 
 ---
-
 ## ⚒ Skills & Tech Stack
 
 <table align="center">
@@ -62,11 +61,10 @@
   <tr>
     <td><b>Libraries</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=opencv" /> &nbsp; Pandas &nbsp; NumPy
+      <img src="https://skillicons.dev/icons?i=opencv,pandas,numpy" />
     </td>
   </tr>
 </table>
-
 
 
 <!-- Pac-Man Fun GIF -->
