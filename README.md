@@ -141,8 +141,9 @@
 
 <!-- Working Desk GIF -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" alt="Working Desk" width="600px"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" alt="Working Desk" width="550px" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
 </p>
+
 
 ---
 
