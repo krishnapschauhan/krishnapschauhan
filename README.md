@@ -142,15 +142,28 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  <img width="300" src="https://github-readme-stats.vercel.app/api?username=krishnapschauhan&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <!-- GitHub Stats -->
+  <div style="border-radius: 15px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+    <img width="300" src="https://github-readme-stats.vercel.app/api?username=krishnapschauhan&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  </div>
 
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapschauhan&langs_count=10&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  <!-- Top Languages -->
+  <div style="border-radius: 15px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapschauhan&langs_count=10&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </div>
 
-  <img width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnapschauhan&count_private=true&theme=dark&border_radius=10" alt="Streak Stats" />
+  <!-- Streak Stats -->
+  <div style="border-radius: 15px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+    <img width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnapschauhan&count_private=true&theme=dark&border_radius=10" alt="Streak Stats" />
+  </div>
 
-  <img width="300" src="https://github-profile-trophy.vercel.app/?username=krishnapschauhan&theme=dark&no-frame=true&no-bg=true&margin-w=5" alt="Trophies" />
+  <!-- Trophies -->
+  <div style="border-radius: 15px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+    <img width="300" src="https://github-profile-trophy.vercel.app/?username=krishnapschauhan&theme=dark&no-frame=true&no-bg=true&margin-w=5" alt="Trophies" />
+  </div>
 
 </div>
+
 
