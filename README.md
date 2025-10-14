@@ -139,9 +139,9 @@
   </a>
 </div>
 
-<!-- Working Desk GIF -->
+<!-- Animation  -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" alt="Working Desk" width="550px" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" alt="Animation" width="500px"/>
 </p>
 
 
