@@ -5,7 +5,7 @@
 
 <!-- Intro -->
 <h1 align="center" style="font-size: 42px; display: flex; align-items: center; justify-content: center; gap: 10px;">
-  Hi 👋, I'm Krishna Chauhan
+  Hi, I'm Krishna
   <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="70px" />
 </h1>
 
@@ -15,17 +15,16 @@
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning  
 - Data Structures & Algorithms  
-- DevOps basics: Docker, AWS  
-- Full-stack projects with React, Next.js, Node.js  
+- Building full-stack projects using React, Node.js, and PostgreSQL  
 
 ---
 
-## 💬 Ask Me About
-- Frontend: React, Next.js, Tailwind CSS  
-- Backend: Node.js, Express, PostgreSQL, MySQL  
-- Data & AI: Python, OpenCV, Pandas, NumPy  
+## 💬 Ask Me About  
+- Frontend: React, Tailwind CSS  
+- Backend: Node.js, Express  
+- Python and OpenCV projects  
 
 ---
 
