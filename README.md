@@ -58,12 +58,14 @@
       <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
     </td>
   </tr>
-  <tr>
-    <td><b>Libraries</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=opencv,pandas,numpy" />
-    </td>
-  </tr>
+<tr>
+  <td><b>Libraries</b></td>
+  <td>
+    <img src="https://skillicons.dev/icons?i=opencv" /> 
+    <img src="https://skillicons.dev/icons?i=pandas" /> 
+    <img src="https://skillicons.dev/icons?i=numpy" />
+  </td>
+</tr>
 </table>
 
 
