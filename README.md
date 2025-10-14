@@ -67,7 +67,6 @@
   </tr>
 </table>
 
----
 
 
 <!-- Pac-Man Fun GIF -->
@@ -77,7 +76,6 @@
 
 
 
----
 
 ## 🚀 Projects
 
