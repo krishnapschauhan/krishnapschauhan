@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-  <b>Frontend Developer | Python & Node.js | Web & Data Enthusiast</b>
+  <b>FullStack Developer | Python & Node.js | Web & Data Enthusiast</b>
 </p>
 
 ---
