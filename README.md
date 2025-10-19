@@ -22,7 +22,7 @@
 ---
 
 ## 💬 Ask Me About  
-- Frontend: React, Tailwind CSS  
+- Frontend: React, Tailwind CSS , Nextjs
 - Backend: Node.js, Express  
 - Python and OpenCV projects  
 
