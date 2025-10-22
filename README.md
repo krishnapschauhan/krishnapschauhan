@@ -69,8 +69,7 @@
 </p>
 
 
-
-
+---
 ## 🚀 Projects
 
 <table align="center">
@@ -83,50 +82,34 @@
   <tr>
     <td><b>Base Care</b></td>
     <td>Complaint and service management system connecting users with workers through an admin dashboard.</td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,express,postgresql" />
-    </td>
+    <td>React, TypeScript, Tailwind, Node.js, Express, PostgreSQL</td>
     <td><a href="https://base-care.vercel.app/">Live Demo</a></td>
   </tr>
   <tr>
     <td><b>Sorting Visualizer</b></td>
     <td>Interactive visualizer for algorithms like Quick Sort, Merge Sort, and Bubble Sort.</td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,javascript" />
-    </td>
+    <td>HTML, CSS, JavaScript</td>
     <td><a href="https://krishnapschauhan.github.io/sorting-visualizer/">Live Demo</a></td>
   </tr>
   <tr>
     <td><b>QuickNote</b></td>
     <td>Minimal web app to create and manage notes with local storage persistence.</td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,css" />
-    </td>
+    <td>React, CSS, LocalStorage</td>
     <td><a href="https://krishnapschauhan.github.io/quicknote/">Live Demo</a></td>
   </tr>
   <tr>
     <td><b>Finger Counting</b></td>
     <td>Real-time hand tracking app using OpenCV and MediaPipe for finger counting.</td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=python,opencv" />
-    </td>
+    <td>Python, OpenCV, MediaPipe</td>
     <td><a href="https://github.com/krishnapschauhan/fingercounting">View Code</a></td>
   </tr>
   <tr>
     <td><b>Expense Tracker</b></td>
     <td>Track expenses with add, view, and delete options using browser local storage.</td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html,css,javascript" />
-    </td>
+    <td>HTML, CSS, JavaScript</td>
     <td><a href="https://github.com/krishnapschauhan/expense-tracker">View Code</a></td>
   </tr>
-</table>
-
-<!-- Animation  -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" alt="Animation" width="500px"/>
-</p>
-
+</table> 
 
 ---
 
