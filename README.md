@@ -127,23 +127,6 @@
 </table>
 
 ---
-## ⚒ Skills & Tech Stack
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,nextjs" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
-
-### Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
-
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-
-### Libraries
-<img src="https://skillicons.dev/icons?i=opencv,pandas,numpy" />
-
 
 <!-- Animation  -->
 <p align="center">
