@@ -13,17 +13,17 @@
   <b>Full-Stack Developer | Python & Node.js | Passionate about Web and Data</b>
 </h3>
 
-
-
 ---
 
 ## 💡 About Me & Skills
 
-🌱 **Currently Learning:** Next.js, MongoDB, Data Structures & Algorithms, and building full-stack projects using React, Node.js, and PostgreSQL.  
-
-💬 **Ask Me About:** Frontend (React, Tailwind CSS, Next.js), Backend (Node.js, Express), and Python/OpenCV projects.  
+👨‍💻 **Who I Am:** CSE student passionate about coding, problem-solving, and building projects.  
+🌱 **Currently Learning:** Next.js, MongoDB, DSA, and full-stack development with React, Node.js, PostgreSQL.  
+💬 **Expertise / Ask Me About:** Frontend (React, Tailwind CSS, Next.js), Backend (Node.js, Express), Python/OpenCV, and algorithms.  
+🚀 **Interests:** Competitive programming, building efficient solutions, exploring new tech, and contributing to open-source.  
 
 ---
+
 ## ⚒ Skills & Tech Stack
 
 <table align="center">
