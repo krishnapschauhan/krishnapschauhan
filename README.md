@@ -17,16 +17,11 @@
 
 ---
 
-## 🌱 Currently Learning  
-- Data Structures & Algorithms  
-- Building full-stack projects using React, Node.js, and PostgreSQL  
+## 💡 About Me & Skills
 
----
+🌱 **Currently Learning:** Next.js, MongoDB, Data Structures & Algorithms, and building full-stack projects using React, Node.js, and PostgreSQL.  
 
-## 💬 Ask Me About  
-- Frontend: React, Tailwind CSS , Nextjs
-- Backend: Node.js, Express  
-- Python and OpenCV projects  
+💬 **Ask Me About:** Frontend (React, Tailwind CSS, Next.js), Backend (Node.js, Express), and Python/OpenCV projects.  
 
 ---
 ## ⚒ Skills & Tech Stack
