@@ -128,24 +128,25 @@
 
 ---
 
-## 📫 Connect with Me
-<div align="center">
-  <a href="mailto:krishnachauhan09875@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="http://www.linkedin.com/in/krishnapratapsinghchauhan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/krishnapschauhan/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://github.com/krishnapschauhan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://creative-krishna.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" />
-  </a>
-</div>
+## ⚒ Skills & Tech Stack
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html" /> <img src="https://skillicons.dev/icons?i=css" /> <img src="https://skillicons.dev/icons?i=javascript" /><br>
+<img src="https://skillicons.dev/icons?i=tailwind" /> <img src="https://skillicons.dev/icons?i=react" /> <img src="https://skillicons.dev/icons?i=nextjs" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs" /> <img src="https://skillicons.dev/icons?i=express" /> <img src="https://skillicons.dev/icons?i=python" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql" /> <img src="https://skillicons.dev/icons?i=postgresql" /> <img src="https://skillicons.dev/icons?i=mongodb" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git" /> <img src="https://skillicons.dev/icons?i=github" /> <img src="https://skillicons.dev/icons?i=postman" /><br>
+<img src="https://skillicons.dev/icons?i=vscode" />
+
+### Libraries
+<img src="https://skillicons.dev/icons?i=opencv" /> <img src="https://skillicons.dev/icons?i=pandas" /> <img src="https://skillicons.dev/icons?i=numpy" />
+
 
 <!-- Animation  -->
 <p align="center">
