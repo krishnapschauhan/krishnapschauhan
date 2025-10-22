@@ -33,47 +33,35 @@
   <tr>
     <td><b>Frontend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html" />
-      <img src="https://skillicons.dev/icons?i=css" />
-      <img src="https://skillicons.dev/icons?i=javascript" /><br>
-      <img src="https://skillicons.dev/icons?i=tailwind" />
-      <img src="https://skillicons.dev/icons?i=react" />
-      <img src="https://skillicons.dev/icons?i=nextjs" />
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,nextjs" />
     </td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs" />
-      <img src="https://skillicons.dev/icons?i=express" /><br>
-      <img src="https://skillicons.dev/icons?i=python" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
     </td>
   </tr>
   <tr>
     <td><b>Databases</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mysql" />
-      <img src="https://skillicons.dev/icons?i=postgresql" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
     </td>
   </tr>
   <tr>
     <td><b>Tools</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git" />
-      <img src="https://skillicons.dev/icons?i=github" /><br>
-      <img src="https://skillicons.dev/icons?i=postman" />
-      <img src="https://skillicons.dev/icons?i=vscode" />
+      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
     </td>
   </tr>
   <tr>
     <td><b>Libraries</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=opencv" />
-      <img src="https://skillicons.dev/icons?i=pandas" /><br>
-      <img src="https://skillicons.dev/icons?i=numpy" />
+      <img src="https://skillicons.dev/icons?i=opencv,pandas,numpy" />
     </td>
   </tr>
 </table>
+
 
 
 
