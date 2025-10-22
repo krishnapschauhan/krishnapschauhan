@@ -63,8 +63,6 @@
 </table>
 
 
-
-
 <!-- Pac-Man Fun GIF -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Pac-Man" width="500px"/>
@@ -85,36 +83,44 @@
   <tr>
     <td><b>Base Care</b></td>
     <td>Complaint and service management system connecting users with workers through an admin dashboard.</td>
-    <td>React, TypeScript, Tailwind, Node.js, Express, PostgreSQL</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,express,postgresql" />
+    </td>
     <td><a href="https://base-care.vercel.app/">Live Demo</a></td>
   </tr>
   <tr>
     <td><b>Sorting Visualizer</b></td>
     <td>Interactive visualizer for algorithms like Quick Sort, Merge Sort, and Bubble Sort.</td>
-    <td>HTML, CSS, JavaScript</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+    </td>
     <td><a href="https://krishnapschauhan.github.io/sorting-visualizer/">Live Demo</a></td>
   </tr>
   <tr>
     <td><b>QuickNote</b></td>
     <td>Minimal web app to create and manage notes with local storage persistence.</td>
-    <td>React, CSS, LocalStorage</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,css" />
+    </td>
     <td><a href="https://krishnapschauhan.github.io/quicknote/">Live Demo</a></td>
   </tr>
   <tr>
     <td><b>Finger Counting</b></td>
     <td>Real-time hand tracking app using OpenCV and MediaPipe for finger counting.</td>
-    <td>Python, OpenCV, MediaPipe</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,opencv" />
+    </td>
     <td><a href="https://github.com/krishnapschauhan/fingercounting">View Code</a></td>
   </tr>
   <tr>
     <td><b>Expense Tracker</b></td>
     <td>Track expenses with add, view, and delete options using browser local storage.</td>
-    <td>HTML, CSS, JavaScript</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+    </td>
     <td><a href="https://github.com/krishnapschauhan/expense-tracker">View Code</a></td>
   </tr>
 </table>
-
----
 
 <!-- Animation  -->
 <p align="center">
