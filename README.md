@@ -4,14 +4,15 @@
 </p>
 
 <!-- Intro -->
-<h1 align="center" style="font-size: 56px; display: flex; align-items: center; justify-content: center; gap: 12px;">
+<h1 align="center">
   Hi, I'm Krishna
   <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="85px" />
 </h1>
 
-<p align="center" style="font-size: 24px;">
+<h3 align="center">
   <b>Full-Stack Developer | Python & Node.js | Passionate about Web and Data</b>
-</p>
+</h3>
+
 
 
 ---
