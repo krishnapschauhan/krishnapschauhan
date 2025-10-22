@@ -127,25 +127,22 @@
 </table>
 
 ---
-
 ## ⚒ Skills & Tech Stack
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html" /> <img src="https://skillicons.dev/icons?i=css" /> <img src="https://skillicons.dev/icons?i=javascript" /><br>
-<img src="https://skillicons.dev/icons?i=tailwind" /> <img src="https://skillicons.dev/icons?i=react" /> <img src="https://skillicons.dev/icons?i=nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,nextjs" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs" /> <img src="https://skillicons.dev/icons?i=express" /> <img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mysql" /> <img src="https://skillicons.dev/icons?i=postgresql" /> <img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git" /> <img src="https://skillicons.dev/icons?i=github" /> <img src="https://skillicons.dev/icons?i=postman" /><br>
-<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 
 ### Libraries
-<img src="https://skillicons.dev/icons?i=opencv" /> <img src="https://skillicons.dev/icons?i=pandas" /> <img src="https://skillicons.dev/icons?i=numpy" />
+<img src="https://skillicons.dev/icons?i=opencv,pandas,numpy" />
 
 
 <!-- Animation  -->
