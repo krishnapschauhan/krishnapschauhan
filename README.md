@@ -4,14 +4,16 @@
 </p>
 
 <!-- Intro -->
-<h1 align="center">
-  Hi, I'm Krishna
+<h1 align="center" style="font-size: 42px; margin-bottom: 0;">
+  Hi, I'm <span style="color:#6C63FF; font-weight: 800;">Krishna</span>
   <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="85px" />
 </h1>
 
-<h3 align="center">
-  <b>Full-Stack Developer | Python & Node.js | Passionate about Web and Data</b>
-</h3>
+<p align="center" style="font-size: 18px; max-width: 800px;">
+  <b>Full-Stack Developer</b> specializing in modern web technologies,  
+  blending clean UI/UX with strong backend engineering.  
+  Passionate about <b>Python</b>, <b>Node.js</b>, <b>Next.js</b>, and building meaningful digital experiences.
+</p>
 
 ---
 ## 💡 About Me
