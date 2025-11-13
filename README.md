@@ -97,10 +97,6 @@ Focused on writing **clean, efficient, scalable** code.
 ## 🚀 Projects
 
 <div align="center">
-
-<table>
-  <tr>
-
     <td align="center" width="33%">
       <h3>🧰 Base Care</h3>
       <p>Complaint and service management system.</p>
@@ -111,7 +107,6 @@ Focused on writing **clean, efficient, scalable** code.
       </p>
       <a href="https://base-care.vercel.app/">🔗 Live Demo</a>
     </td>
-
     <td align="center" width="33%">
       <h3>📊 Sorting Visualizer</h3>
       <p>Interactive sorting algorithm visualizer.</p>
@@ -122,7 +117,6 @@ Focused on writing **clean, efficient, scalable** code.
       </p>
       <a href="https://krishnapschauhan.github.io/sorting-visualizer/">🔗 Live Demo</a>
     </td>
-
     <td align="center" width="33%">
       <h3>📝 QuickNote</h3>
       <p>Minimal note-taking web app.</p>
@@ -135,9 +129,8 @@ Focused on writing **clean, efficient, scalable** code.
     </td>
 
   </tr>
-
+  
   <tr>
-
     <td align="center" width="33%">
       <h3>✋ Finger Counting</h3>
       <p>Real-time finger detection using OpenCV.</p>
@@ -149,7 +142,7 @@ Focused on writing **clean, efficient, scalable** code.
       <a href="https://github.com/krishnapschauhan/fingercounting">📄 View Code</a>
     </td>
 
-    <td align="center" width="33%">
+  <td align="center" width="33%">
       <h3>💸 Expense Tracker</h3>
       <p>Track expenses with local storage.</p>
       <p>
@@ -160,10 +153,10 @@ Focused on writing **clean, efficient, scalable** code.
       <a href="https://github.com/krishnapschauhan/expense-tracker">📄 View Code</a>
     </td>
 
-    <td align="center" width="33%"></td>
+  <td align="center" width="33%"></td>
 
   </tr>
-</table>
+
 
 </div>
 
