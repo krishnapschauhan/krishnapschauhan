@@ -17,30 +17,30 @@
 ## 💡 About Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CSE%20Student-555?style=flat-square&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem%20Solver-444?style=flat-square&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Enthusiast-333?style=flat-square&logo=webassembly&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSE%20Student-6A5ACD?style=flat&logo=gradle&logoColor=white&labelColor=4B3F72&color=6A5ACD" />
+  <img src="https://img.shields.io/badge/Problem%20Solver-F28C28?style=flat&logo=code&logoColor=white&labelColor=C46B19&color=F28C28" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Enthusiast-008080?style=flat&logo=webassembly&logoColor=white&labelColor=005F5F&color=008080" />
 </p>
 
 👋 I'm a CSE student passionate about **coding**, **problem-solving**, and creating real-world projects.  
-I enjoy working with **frontend, backend, and computer vision** projects.
+Focused on writing **clean, efficient, scalable** code.
 
 ---
 
 ### 🌱 Currently Learning
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/MongoDB-001f2b?style=flat-square&logo=mongodb" />
-  <img src="https://img.shields.io/badge/DSA-101010?style=flat-square&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&color=2F2F2F" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&color=3A8C38" />
+  <img src="https://img.shields.io/badge/DSA-FF4500?style=flat&logo=leetcode&logoColor=white&color=D93A00" />
 </p>
 
 ---
 
 ### 🚀 Interests
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-24292F?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Competitive%20Programming-002b36?style=flat-square&logo=codeforces" />
-  <img src="https://img.shields.io/badge/Web%20Development-0a0a0a?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/Open%20Source-333333?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Competitive%20Programming-1F8ACB?style=flat&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Development-0b84fe?style=flat&logo=javascript&logoColor=white" />
 </p>
 
 ---
