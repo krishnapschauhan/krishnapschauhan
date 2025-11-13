@@ -15,12 +15,36 @@
 
 ---
 
-## 💡 About Me & Skills
+## 💡 About Me
 
-👨‍💻 **Who I Am:** CSE student passionate about coding, problem-solving, and building projects.  
-🌱 **Currently Learning:** Next.js, MongoDB, DSA, and full-stack development with React, Node.js, PostgreSQL.  
-💬 **Expertise / Ask Me About:** Frontend (React, Tailwind CSS, Next.js), Backend (Node.js, Express), Python/OpenCV, and algorithms.  
-🚀 **Interests:** Competitive programming, building efficient solutions, exploring new tech, and contributing to open-source.  
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://img.shields.io/badge/CSE%20Student-6A5ACD?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem%20Solver-FF8C00?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Learner-008080?style=for-the-badge&logo=react&logoColor=white" />
+</p>
+
+👋 I'm a CSE student passionate about **coding**, **problem-solving**, and building real-world, impactful projects.  
+I love writing **clean, efficient code** and constantly improving my development workflow.
+
+---
+
+### 🌱 Currently Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-FF4500?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Development-0A9396?style=for-the-badge&logo=node.js&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Interests
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-3C873A?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Competitive%20Programming-FFD700?style=for-the-badge&logo=codeforces&logoColor=black" />
+  <img src="https://img.shields.io/badge/Web%20Development-0047AB?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-6A5ACD?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 ---
 ## ⚒ Skills & Tech Stack
