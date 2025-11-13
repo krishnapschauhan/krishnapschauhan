@@ -1,18 +1,16 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Banner" width="100%"/>
+  <img src="./240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Banner" width="100%">
 </p>
 
 <!-- Intro -->
-<h1 align="center" style="font-size: 42px; margin-bottom: 0;">
-  Hi, I'm <span style="color:#6C63FF; font-weight: 800;">Krishna</span>
-  <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="85px" />
+<h1 align="center">
+  Hi, I'm <span style="color:#7a5cff; font-weight:900;">Krishna</span>
+  <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="80px">
 </h1>
 
-<p align="center" style="font-size: 18px; max-width: 800px;">
-  <b>Full-Stack Developer</b> specializing in modern web technologies,  
-  blending clean UI/UX with strong backend engineering.  
-  Passionate about <b>Python</b>, <b>Node.js</b>, <b>Next.js</b>, and building meaningful digital experiences.
+<p align="center">
+  <strong>Full-Stack Developer</strong> • Python & Node.js • Love building clean & scalable web apps
 </p>
 
 ---
