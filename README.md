@@ -95,70 +95,13 @@ Focused on writing **clean, efficient, scalable** code.
 
 ---
 ## 🚀 Projects
-
-<div align="center">
-    <td align="center" width="33%">
-      <h3>🧰 Base Care</h3>
-      <p>Complaint and service management system.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square" />
-      </p>
-      <a href="https://base-care.vercel.app/">🔗 Live Demo</a>
-    </td>
-    <td align="center" width="33%">
-      <h3>📊 Sorting Visualizer</h3>
-      <p>Interactive sorting algorithm visualizer.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square" />
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square" />
-        <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square" />
-      </p>
-      <a href="https://krishnapschauhan.github.io/sorting-visualizer/">🔗 Live Demo</a>
-    </td>
-    <td align="center" width="33%">
-      <h3>📝 QuickNote</h3>
-      <p>Minimal note-taking web app.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" />
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square" />
-        <img src="https://img.shields.io/badge/LocalStorage-000?style=flat-square" />
-      </p>
-      <a href="https://krishnapschauhan.github.io/quicknote/">🔗 Live Demo</a>
-    </td>
-
-  </tr>
-  
-  <tr>
-    <td align="center" width="33%">
-      <h3>✋ Finger Counting</h3>
-      <p>Real-time finger detection using OpenCV.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square" />
-        <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square" />
-      </p>
-      <a href="https://github.com/krishnapschauhan/fingercounting">📄 View Code</a>
-    </td>
-
-  <td align="center" width="33%">
-      <h3>💸 Expense Tracker</h3>
-      <p>Track expenses with local storage.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square" />
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square" />
-        <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square" />
-      </p>
-      <a href="https://github.com/krishnapschauhan/expense-tracker">📄 View Code</a>
-    </td>
-
-  <td align="center" width="33%"></td>
-
-  </tr>
-
-
-</div>
+| Project                   | Description                           | Tech Stack                                                     | Link                                                                   |
+| ------------------------- | ------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| **🧰 Base Care**          | Complaint & service management system | React · TypeScript · Tailwind · Node.js · Express · PostgreSQL | [🔗 Live Demo](https://base-care.vercel.app/)                          |
+| **📊 Sorting Visualizer** | Visualizer for sorting algorithms     | HTML · CSS · JavaScript                                        | [🔗 Live Demo](https://krishnapschauhan.github.io/sorting-visualizer/) |
+| **📝 QuickNote**          | Minimal notes app with local storage  | React · CSS · LocalStorage                                     | [🔗 Live Demo](https://krishnapschauhan.github.io/quicknote/)          |
+| **✋ Finger Counting**     | Real-time OpenCV finger detection     | Python · OpenCV · MediaPipe                                    | [📄 View Code](https://github.com/krishnapschauhan/fingercounting)     |
+| **💸 Expense Tracker**    | Simple expense tracker                | HTML · CSS · JavaScript                                        | [📄 View Code](https://github.com/krishnapschauhan/expense-tracker)    |
 
 ---
 
