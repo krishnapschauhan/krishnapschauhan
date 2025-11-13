@@ -117,27 +117,20 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  <!-- GitHub Stats -->
-  <div style="border-radius: 15px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
-    <img width="300" src="https://github-readme-stats.vercel.app/api?username=krishnapschauhan&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
-  </div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krishnapschauhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapschauhan&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
-  <!-- Top Languages -->
-  <div style="border-radius: 15px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
-    <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapschauhan&langs_count=10&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
-  </div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnapschauhan&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
-  <!-- Streak Stats -->
-  <div style="border-radius: 15px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
-    <img width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnapschauhan&count_private=true&theme=dark&border_radius=10" alt="Streak Stats" />
-  </div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=krishnapschauhan&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
-  <!-- Trophies -->
-  <div style="border-radius: 15px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
-    <img width="300" src="https://github-profile-trophy.vercel.app/?username=krishnapschauhan&theme=dark&no-frame=true&no-bg=true&margin-w=5" alt="Trophies" />
-  </div>
 
 </div>
 
