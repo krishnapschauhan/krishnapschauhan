@@ -98,70 +98,76 @@ Focused on writing **clean, efficient, scalable** code.
 
 <div align="center">
 
-### 🧰 Base Care
-<p>
-  Complaint and service management system connecting users with workers through an admin dashboard.
-</p>
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=fff" />
-</p>
-<a href="https://base-care.vercel.app/">🔗 Live Demo</a>
+<table>
+  <tr>
+    <!-- Project 1 -->
+    <td width="50%" align="center">
+      <h3>🧰 Base Care</h3>
+      <p>Complaint and service management system connecting users, workers, and admin.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" />
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=fff" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=fff" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=fff" />
+      </p>
+      <a href="https://base-care.vercel.app/">🔗 Live Demo</a>
+    </td>
 
----
+    <!-- Project 2 -->
+    <td width="50%" align="center">
+      <h3>📊 Sorting Visualizer</h3>
+      <p>Interactive visualizer for algorithms like Quick Sort, Merge Sort, Bubble Sort.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=fff" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=fff" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
+      </p>
+      <a href="https://krishnapschauhan.github.io/sorting-visualizer/">🔗 Live Demo</a>
+    </td>
+  </tr>
 
-### 📊 Sorting Visualizer
-<p>
-  Interactive visualizer for algorithms like Quick Sort, Merge Sort, and Bubble Sort.
-</p>
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=fff" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=fff" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
-</p>
-<a href="https://krishnapschauhan.github.io/sorting-visualizer/">🔗 Live Demo</a>
+  <tr>
+    <!-- Project 3 -->
+    <td width="50%" align="center">
+      <h3>📝 QuickNote</h3>
+      <p>Minimal notes app with local storage persistence.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=fff" />
+        <img src="https://img.shields.io/badge/LocalStorage-000000?style=flat-square&logo=googlechrome&logoColor=fff" />
+      </p>
+      <a href="https://krishnapschauhan.github.io/quicknote/">🔗 Live Demo</a>
+    </td>
 
----
+    <!-- Project 4 -->
+    <td width="50%" align="center">
+      <h3>✋ Finger Counting</h3>
+      <p>Real-time finger counting using OpenCV + MediaPipe.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=fff" />
+        <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square&logo=google&logoColor=fff" />
+      </p>
+      <a href="https://github.com/krishnapschauhan/fingercounting">📄 View Code</a>
+    </td>
+  </tr>
 
-### 📝 QuickNote
-<p>
-  Minimal web app to create and manage notes with local storage persistence.
-</p>
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=fff" />
-  <img src="https://img.shields.io/badge/LocalStorage-000000?style=flat-square&logo=googlechrome&logoColor=fff" />
-</p>
-<a href="https://krishnapschauhan.github.io/quicknote/">🔗 Live Demo</a>
+  <tr>
+    <!-- Project 5 -->
+    <td width="50%" align="center">
+      <h3>💸 Expense Tracker</h3>
+      <p>Track expenses with add, view, and delete options using local storage.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=fff" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=fff" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
+      </p>
+      <a href="https://github.com/krishnapschauhan/expense-tracker">📄 View Code</a>
+    </td>
+  </tr>
 
----
-
-### ✋ Finger Counting
-<p>
-  Real-time hand tracking app using OpenCV and MediaPipe for finger counting.
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=fff" />
-  <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square&logo=google&logoColor=fff" />
-</p>
-<a href="https://github.com/krishnapschauhan/fingercounting">📄 View Code</a>
-
----
-
-### 💸 Expense Tracker
-<p>
-  Track expenses with add, view, and delete options using browser local storage.
-</p>
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=fff" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=fff" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" />
-</p>
-<a href="https://github.com/krishnapschauhan/expense-tracker">📄 View Code</a>
+</table>
 
 </div>
 
