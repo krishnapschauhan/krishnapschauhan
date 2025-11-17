@@ -95,13 +95,83 @@ Focused on writing **clean, efficient, scalable** code.
 
 ---
 ## 🚀 Projects
-| Project                   | Description                           | Tech Stack                                                     | Link                                                                   |
-| ------------------------- | ------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| **🧰 Base Care**          | Complaint & service management system | React · TypeScript · Tailwind · Node.js · Express · PostgreSQL | [🔗 Live Demo](https://base-care.vercel.app/)                          |
-| **📊 Sorting Visualizer** | Visualizer for sorting algorithms     | HTML · CSS · JavaScript                                        | [🔗 Live Demo](https://krishnapschauhan.github.io/sorting-visualizer/) |
-| **📝 QuickNote**          | Minimal notes app with local storage  | React · CSS · LocalStorage                                     | [🔗 Live Demo](https://krishnapschauhan.github.io/quicknote/)          |
-| **✋ Finger Counting**     | Real-time OpenCV finger detection     | Python · OpenCV · MediaPipe                                    | [📄 View Code](https://github.com/krishnapschauhan/fingercounting)     |
-| **💸 Expense Tracker**    | Simple expense tracker                | HTML · CSS · JavaScript                                        | [📄 View Code](https://github.com/krishnapschauhan/expense-tracker)    |
+
+<table>
+  <tr>
+    <td>
+      <h3>🧰 <strong>Base Care</strong></h3>
+      Complaint & service management system<br>
+      <strong>Tech:</strong><br>
+      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
+      <br><br>
+      🔗 <a href="https://base-care.vercel.app">Live</a> · <a href="https://github.com/krishnapschauhan/Base-Care">Code</a>
+    </td>
+    <td>
+      <h3>👕 <strong>Vastra Lok</strong></h3>
+      Modern e-commerce clothing platform<br>
+      <strong>Tech:</strong><br>
+      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Razorpay-02042B?logo=razorpay&logoColor=3395FF" />
+      <img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white" />
+      <br><br>
+      🔗 <a href="https://vastralok.vercel.app">Live</a> · <a href="https://github.com/krishnapschauhan/vastra-lok">Code</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <h3>📊 <strong>Sorting Visualizer</strong></h3>
+      Visualizer for sorting algorithms<br>
+      <strong>Tech:</strong><br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+      <br><br>
+      🔗 <a href="https://krishnapschauhan.github.io/sorting-visualizer">Live</a> · <a href="https://github.com/krishnapschauhan/sorting-visualizer">Code</a>
+    </td>
+    <td>
+      <h3>📝 <strong>QuickNote</strong></h3>
+      Minimal notes app with local storage<br>
+      <strong>Tech:</strong><br>
+      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/LocalStorage-FFA500?logo=googlechrome&logoColor=white" />
+      <br><br>
+      🔗 <a href="https://krishnapschauhan.github.io/quicknote">Live</a> · <a href="https://github.com/krishnapschauhan/quicknote">Code</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <h3>✋ <strong>Finger Counting</strong></h3>
+      Real-time OpenCV finger detection<br>
+      <strong>Tech:</strong><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/MediaPipe-FFDB00?logo=google&logoColor=black" />
+      <br><br>
+      📄 <a href="https://github.com/krishnapschauhan/fingercounting">Code</a>
+    </td>
+    <td>
+      <h3>💸 <strong>Expense Tracker</strong></h3>
+      Simple expense tracking app<br>
+      <strong>Tech:</strong><br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+      <br><br>
+      📄 <a href="https://github.com/krishnapschauhan/expense-tracker">Code</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
