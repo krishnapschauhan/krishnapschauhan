@@ -112,7 +112,8 @@ Focused on writing **clean, efficient, scalable** code.
       🔗 <a href="https://base-care.vercel.app">Live</a> · <a href="https://github.com/krishnapschauhan/Base-Care">Code</a>
     </td>
 
-<td>
+<tr>
+ <td>
       <h3>👕 <strong>Vastra Lok</strong></h3>
       Modern e-commerce clothing platform<br>
       <strong>Tech:</strong><br>
@@ -153,7 +154,7 @@ Focused on writing **clean, efficient, scalable** code.
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
       <br><br>
       🔗 <a href="https://krishnapschauhan.github.io/sorting-visualizer">Live</a> · <a href="https://github.com/krishnapschauhan/sorting-visualizer">Code</a>
-    </td>
+   </td>
 
 <td>
       <h3>📝 <strong>QuickNote</strong></h3>
