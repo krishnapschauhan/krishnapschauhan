@@ -137,7 +137,6 @@ Focused on writing **clean, efficient, scalable** code.
       <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
       <img src="https://img.shields.io/badge/Clerk-000000?logo=clerk&logoColor=white" />
       <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
-      <img src="https://img.shields.io/badge/PlanetScale-000000?logo=planetscale&logoColor=white" />
       <br><br>
       🔗 <a href="https://nightowl-journal.vercel.app/">Live</a> · <a href="https://github.com/krishnapschauhan/nightowl-journal">Code</a>
     </td>
