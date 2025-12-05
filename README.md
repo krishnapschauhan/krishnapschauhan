@@ -112,7 +112,7 @@ Focused on writing **clean, efficient, scalable** code.
       🔗 <a href="https://base-care.vercel.app">Live</a> · <a href="https://github.com/krishnapschauhan/Base-Care">Code</a>
     </td>
 
-    <td>
+<td>
       <h3>👕 <strong>Vastra Lok</strong></h3>
       Modern e-commerce clothing platform<br>
       <strong>Tech:</strong><br>
@@ -155,7 +155,7 @@ Focused on writing **clean, efficient, scalable** code.
       🔗 <a href="https://krishnapschauhan.github.io/sorting-visualizer">Live</a> · <a href="https://github.com/krishnapschauhan/sorting-visualizer">Code</a>
     </td>
 
-    <td>
+<td>
       <h3>📝 <strong>QuickNote</strong></h3>
       Minimal notes app with local storage<br>
       <strong>Tech:</strong><br>
@@ -179,7 +179,7 @@ Focused on writing **clean, efficient, scalable** code.
       📄 <a href="https://github.com/krishnapschauhan/fingercounting">Code</a>
     </td>
 
-    <td>
+<td>
       <h3>💸 <strong>Expense Tracker</strong></h3>
       Simple expense tracking app<br>
       <strong>Tech:</strong><br>
