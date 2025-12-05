@@ -112,8 +112,7 @@ Focused on writing **clean, efficient, scalable** code.
       🔗 <a href="https://base-care.vercel.app">Live</a> · <a href="https://github.com/krishnapschauhan/Base-Care">Code</a>
     </td>
 
-<tr>
- <td>
+  <td>
       <h3>👕 <strong>Vastra Lok</strong></h3>
       Modern e-commerce clothing platform<br>
       <strong>Tech:</strong><br>
@@ -127,7 +126,7 @@ Focused on writing **clean, efficient, scalable** code.
       🔗 <a href="https://vastralok.vercel.app">Live</a> · <a href="https://github.com/krishnapschauhan/vastra-lok">Code</a>
     </td>
   </tr>
-  
+
   <tr>
     <td>
       <h3>🦉 <strong>NightOwl Journal</strong></h3>
@@ -142,10 +141,8 @@ Focused on writing **clean, efficient, scalable** code.
       <br><br>
       🔗 <a href="https://nightowl-journal.vercel.app/">Live</a> · <a href="https://github.com/krishnapschauhan/nightowl-journal">Code</a>
     </td>
-  </tr>
 
-  <tr>
-    <td>
+  <td>
       <h3>📊 <strong>Sorting Visualizer</strong></h3>
       Visualizer for sorting algorithms<br>
       <strong>Tech:</strong><br>
@@ -154,9 +151,11 @@ Focused on writing **clean, efficient, scalable** code.
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
       <br><br>
       🔗 <a href="https://krishnapschauhan.github.io/sorting-visualizer">Live</a> · <a href="https://github.com/krishnapschauhan/sorting-visualizer">Code</a>
-   </td>
+    </td>
+  </tr>
 
-<td>
+  <tr>
+    <td>
       <h3>📝 <strong>QuickNote</strong></h3>
       Minimal notes app with local storage<br>
       <strong>Tech:</strong><br>
@@ -166,10 +165,8 @@ Focused on writing **clean, efficient, scalable** code.
       <br><br>
       🔗 <a href="https://krishnapschauhan.github.io/quicknote">Live</a> · <a href="https://github.com/krishnapschauhan/quicknote">Code</a>
     </td>
-  </tr>
 
-  <tr>
-    <td>
+  <td>
       <h3>✋ <strong>Finger Counting</strong></h3>
       Real-time OpenCV finger detection<br>
       <strong>Tech:</strong><br>
@@ -179,8 +176,10 @@ Focused on writing **clean, efficient, scalable** code.
       <br><br>
       📄 <a href="https://github.com/krishnapschauhan/fingercounting">Code</a>
     </td>
+  </tr>
 
-<td>
+  <tr>
+    <td>
       <h3>💸 <strong>Expense Tracker</strong></h3>
       Simple expense tracking app<br>
       <strong>Tech:</strong><br>
@@ -192,6 +191,7 @@ Focused on writing **clean, efficient, scalable** code.
     </td>
   </tr>
 </table>
+
 
 
 ---
