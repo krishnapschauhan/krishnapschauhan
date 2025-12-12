@@ -198,17 +198,18 @@ Focused on writing **clean, efficient, scalable** code.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnapschauhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapschauhan&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=krishnapschauhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=krishnapschauhan&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnapschauhan&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=krishnapschauhan&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=krishnapschauhan&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
+
 
 </div>
 
