@@ -199,7 +199,7 @@ Focused on writing **clean, efficient, scalable** code.
 
 <p align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=krishnapschauhan)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krishnapschauhan&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapschauhan&layout=compact&theme=tokyonight&hide_border=true)
 
