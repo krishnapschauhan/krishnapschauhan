@@ -198,15 +198,13 @@ Focused on writing **clean, efficient, scalable** code.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=krishnapschauhan&theme=tokyonight&hide_border=true&border_radius=10"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=krishnapschauhan&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
+
+![GitHub Streak](https://streak-stats.demolab.com?user=krishnapschauhan&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapschauhan&layout=compact&theme=tokyonight&hide_border=true)
+
 </p>
+
 
 
 <p align="center">
