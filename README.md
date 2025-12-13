@@ -198,9 +198,16 @@ Focused on writing **clean, efficient, scalable** code.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/672462d62f2e58a3f979fe6fc229d49748a2a20eeb68319eb125fc30fa051d77/68747470733a2f2f73747265616b2d73746174732e76657263656c2e6170703f757365723d6179757368636f64653132267468656d653d746f6b796f6e6967687426626f726465725f7261646975733d3130" height="170" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=krishnapschauhan&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img
+    src="https://streak-stats.demolab.com?user=krishnapschauhan&theme=tokyonight&hide_border=true&border_radius=10"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=krishnapschauhan&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=krishnapschauhan&theme=tokyonight&hide_border=true" height="170" />
