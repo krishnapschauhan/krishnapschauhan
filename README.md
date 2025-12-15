@@ -95,7 +95,6 @@ Focused on writing **clean, efficient, scalable** code.
 
 ---
 ## 🚀 Projects
-
 <table>
   <tr>
     <td>
@@ -109,7 +108,8 @@ Focused on writing **clean, efficient, scalable** code.
       <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
       <br><br>
-      🔗 <a href="https://base-care.vercel.app">Live</a> · <a href="https://github.com/krishnapschauhan/Base-Care">Code</a>
+      🔗 <a href="https://base-care.vercel.app">Live</a> · 
+      <a href="https://github.com/krishnapschauhan/Base-Care">Code</a>
     </td>
 
   <td>
@@ -123,7 +123,8 @@ Focused on writing **clean, efficient, scalable** code.
       <img src="https://img.shields.io/badge/Razorpay-02042B?logo=razorpay&logoColor=3395FF" />
       <img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white" />
       <br><br>
-      🔗 <a href="https://vastralok.vercel.app">Live</a> · <a href="https://github.com/krishnapschauhan/vastra-lok">Code</a>
+      🔗 <a href="https://vastralok.vercel.app">Live</a> · 
+      <a href="https://github.com/krishnapschauhan/vastra-lok">Code</a>
     </td>
   </tr>
 
@@ -138,7 +139,8 @@ Focused on writing **clean, efficient, scalable** code.
       <img src="https://img.shields.io/badge/Clerk-000000?logo=clerk&logoColor=white" />
       <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
       <br><br>
-      🔗 <a href="https://nightowl-journal.vercel.app/">Live</a> · <a href="https://github.com/krishnapschauhan/nightowl-journal">Code</a>
+      🔗 <a href="https://nightowl-journal.vercel.app/">Live</a> · 
+      <a href="https://github.com/krishnapschauhan/nightowl-journal">Code</a>
     </td>
 
   <td>
@@ -149,25 +151,24 @@ Focused on writing **clean, efficient, scalable** code.
       <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
       <br><br>
-      🔗 <a href="https://krishnapschauhan.github.io/sorting-visualizer">Live</a> · <a href="https://github.com/krishnapschauhan/sorting-visualizer">Code</a>
+      🔗 <a href="https://krishnapschauhan.github.io/sorting-visualizer">Live</a> · 
+      <a href="https://github.com/krishnapschauhan/sorting-visualizer">Code</a>
     </td>
   </tr>
 
-<tr>
-  <td>
-    <h3>🖥️ <strong>Terminal System Monitor</strong></h3>
-    Real-time system monitoring tool for the terminal<br>
-    Displays CPU, Memory, Disk usage, and system stats<br>
-    <strong>Tech:</strong><br>
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/psutil-000000?logo=python&logoColor=white" />
-    <br><br>
-    📄 <a href="https://github.com/krishnapschauhan/terminal-system-monitor">Code</a>
-  </td>
-</tr>
-
   <tr>
     <td>
+      <h3>🖥️ <strong>Terminal System Monitor</strong></h3>
+      CLI-based real-time system monitoring tool<br>
+      Displays CPU, Memory, Disk usage, and system stats<br>
+      <strong>Tech:</strong><br>
+      <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/CLI-000000?logo=gnubash&logoColor=white" />
+      <br><br>
+      📄 <a href="https://github.com/krishnapschauhan/terminal-system-monitor">Code</a>
+    </td>
+
+  <td>
       <h3>📝 <strong>QuickNote</strong></h3>
       Minimal notes app with local storage<br>
       <strong>Tech:</strong><br>
@@ -175,10 +176,13 @@ Focused on writing **clean, efficient, scalable** code.
       <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/LocalStorage-FFA500?logo=googlechrome&logoColor=white" />
       <br><br>
-      🔗 <a href="https://krishnapschauhan.github.io/quicknote">Live</a> · <a href="https://github.com/krishnapschauhan/quicknote">Code</a>
+      🔗 <a href="https://krishnapschauhan.github.io/quicknote">Live</a> · 
+      <a href="https://github.com/krishnapschauhan/quicknote">Code</a>
     </td>
+  </tr>
 
-  <td>
+  <tr>
+    <td>
       <h3>✋ <strong>Finger Counting</strong></h3>
       Real-time OpenCV finger detection<br>
       <strong>Tech:</strong><br>
@@ -188,10 +192,8 @@ Focused on writing **clean, efficient, scalable** code.
       <br><br>
       📄 <a href="https://github.com/krishnapschauhan/fingercounting">Code</a>
     </td>
-  </tr>
 
-  <tr>
-    <td>
+  <td>
       <h3>💸 <strong>Expense Tracker</strong></h3>
       Simple expense tracking app<br>
       <strong>Tech:</strong><br>
