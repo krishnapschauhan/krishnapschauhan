@@ -153,6 +153,19 @@ Focused on writing **clean, efficient, scalable** code.
     </td>
   </tr>
 
+<tr>
+  <td>
+    <h3>🖥️ <strong>Terminal System Monitor</strong></h3>
+    Real-time system monitoring tool for the terminal<br>
+    Displays CPU, Memory, Disk usage, and system stats<br>
+    <strong>Tech:</strong><br>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/psutil-000000?logo=python&logoColor=white" />
+    <br><br>
+    📄 <a href="https://github.com/krishnapschauhan/terminal-system-monitor">Code</a>
+  </td>
+</tr>
+
   <tr>
     <td>
       <h3>📝 <strong>QuickNote</strong></h3>
