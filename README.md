@@ -176,7 +176,7 @@ Focused on writing **clean, efficient, scalable** code.
       <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/LocalStorage-FFA500?logo=googlechrome&logoColor=white" />
       <br><br>
-      🔗 <a href="https://krishnapschauhan.github.io/quicknote">Live</a> · 
+      🔗 <a href="https://krishnapschauhan.github.io/quicknote">Live Preview</a> · 
       <a href="https://github.com/krishnapschauhan/quicknote">Code</a>
     </td>
   </tr>
