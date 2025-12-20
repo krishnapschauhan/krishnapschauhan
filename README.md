@@ -151,7 +151,7 @@ Focused on writing **clean, efficient, scalable** code.
       <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
       <br><br>
-      🔗 <a href="https://krishnapschauhan.github.io/sorting-visualizer">Live</a> · 
+      🔗 <a href="https://krishnapschauhan.github.io/sorting-visualizer">Live Preview</a> · 
       <a href="https://github.com/krishnapschauhan/sorting-visualizer">Code</a>
     </td>
   </tr>
