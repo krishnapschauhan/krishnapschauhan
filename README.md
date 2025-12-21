@@ -3,7 +3,10 @@
   <img src="./240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Banner" width="100%">
 </p>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=krishnapschauhan&data=followers,repositories,stars,commits)](https://github.com/krishnapschauhan)
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=krishnapschauhan&data=followers,repositories,stars,commits&compact=true" />
+</p>
+
 
 <!-- Intro -->
 <h1 align="center">
