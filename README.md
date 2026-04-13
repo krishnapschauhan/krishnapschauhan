@@ -1,14 +1,10 @@
-> whoami
-Krishna
+const me = {
+  name: "Krishna",
+  role: "Full-Stack Developer",
 
-> role
-Full-Stack Developer
+  stack: ["React", "Node.js", "Python"],
 
-> stack
-React / Node.js / Python
+  currentlyLearning: ["Next.js", "DSA"],
 
-> currently
-Next.js + DSA
-
-> status
-building...
+  building: true
+};
