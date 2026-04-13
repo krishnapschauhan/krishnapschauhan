@@ -1,10 +1,6 @@
-const me = {
-  name: "Krishna",
-  role: "Full-Stack Developer",
+krishna
 
-  stack: ["React", "Node.js", "Python"],
+react • node • python  
+learning next.js + dsa  
 
-  currentlyLearning: ["Next.js", "DSA"],
-
-  building: true
-};
+building things.
