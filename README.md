@@ -1,29 +1,33 @@
-# Hey, I'm Krishna 👋
+# Krishna 👋
 
-💻 I build things on the web  
-⚡ I like clean code & simple ideas  
-🚀 Currently learning: Next.js + DSA  
+building things • breaking things • fixing things
 
 ---
 
-## 🧠 Stuff I Use
-- Frontend: React, HTML, CSS, JS  
-- Backend: Node.js, Express  
-- Other: Python, OpenCV  
+## what I do
+- make web apps that actually work
+- turn ideas into projects (sometimes good ones)
+- currently: next.js + dsa grind
 
 ---
 
-## 🚀 Projects I Like
-- 🧰 Base Care → complaint management system  
-- 🦉 NightOwl → minimal journaling app  
-- 📊 Sorting Visualizer → because visuals > theory  
+## projects (the ones I didn't abandon)
+- 🧰 base care — complaint system
+- 🦉 nightowl — thoughts at 2am
+- 📊 sorting visualizer — for my dsa phase
 
 ---
 
-## 🧩 Fun Fact
-I debug more than I code (and that's okay 😄)
+## current state
+learning > overthinking  
+shipping > perfecting  
 
 ---
 
-## 📫 Find me here
-- GitHub: https://github.com/krishnapschauhan
+## fun fact
+i have more unfinished ideas than finished projects
+
+---
+
+## reach me
+github.com/krishnapschauhan
