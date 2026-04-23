@@ -12,46 +12,15 @@
 
 
 ## Stack
+**Languages** &nbsp; <img src="https://skillicons.dev/icons?i=ts,js,py" height="30" />
 
-**Languages**
+**Frontend** &nbsp; <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind" height="30" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,py&perline=10" />
-</p>
+**Backend** &nbsp; <img src="https://skillicons.dev/icons?i=nodejs,express" height="30" />
 
-**Frontend**
+**Databases** &nbsp; <img src="https://skillicons.dev/icons?i=postgres,mongodb" height="30" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind&perline=10" />
-</p>
-
-**Backend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=10" />
-</p>
-
-**Databases**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=10" />
-</p>
-
-**Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,postman&perline=10" />
-</p>
-
-## Projects
-
-| Project | Description | Stack | Links |
-|:--------|:------------|:------|:-----:|
-| 🧰 Base Care | Complaint & service management system | React · TypeScript · Tailwind · Node · Express · PostgreSQL | [Live](https://base-care.vercel.app) · [Code](https://github.com/krishnapschauhan/Base-Care) |
-| 👕 Vastra Lok | Modern e-commerce clothing platform | React · Node · Express · MongoDB · Razorpay · Stripe | [Live](https://vastralok.vercel.app) · [Code](https://github.com/krishnapschauhan/vastra-lok) |
-| 🦉 NightOwl Journal | Minimal journaling app to write & organize thoughts | Next.js · TypeScript · Tailwind · Clerk · Prisma | [Live](https://nightowl-journal.vercel.app/) · [Code](https://github.com/krishnapschauhan/nightowl-journal) |
-| 🖥️ Terminal System Monitor | CLI tool for real-time CPU, memory & disk stats | Node.js | [Code](https://github.com/krishnapschauhan/terminal-system-monitor) |
-
+**Tools** &nbsp; <img src="https://skillicons.dev/icons?i=git,postman" height="30" />
 
 ## Stats
 
