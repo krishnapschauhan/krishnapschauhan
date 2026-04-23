@@ -23,8 +23,8 @@
 ## 📈 Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=krishnapschauhan&theme=tokyonight&hide_border=true&card_width=400" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapschauhan&layout=compact&theme=tokyonight&hide_border=true&card_width=400" height="165" />
+  <img src="https://streak-stats.demolab.com?user=krishnapschauhan&theme=tokyonight&hide_border=true&card_width=300" height="100" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapschauhan&layout=compact&theme=tokyonight&hide_border=true&card_width=300" height="100" />
 </p>
 
 <br>
