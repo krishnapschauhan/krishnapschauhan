@@ -10,7 +10,6 @@
 
 <p align="center">🌱 Learning Next.js & MongoDB &nbsp;·&nbsp; 💡 Into Open Source & Competitive Programming &nbsp;·&nbsp; 📫 <a href="https://github.com/krishnapschauhan">GitHub</a></p>
 
---
 
 ## Stack
 
@@ -28,7 +27,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
 
---
 
 ## Projects
 
@@ -38,7 +36,7 @@
 | 👕 Vastra Lok | Modern e-commerce clothing platform | React · Node · Express · MongoDB · Razorpay · Stripe | [Live](https://vastralok.vercel.app) · [Code](https://github.com/krishnapschauhan/vastra-lok) |
 | 🦉 NightOwl Journal | Minimal journaling app to write & organize thoughts | Next.js · TypeScript · Tailwind · Clerk · Prisma | [Live](https://nightowl-journal.vercel.app/) · [Code](https://github.com/krishnapschauhan/nightowl-journal) |
 | 🖥️ Terminal System Monitor | CLI tool for real-time CPU, memory & disk stats | Node.js | [Code](https://github.com/krishnapschauhan/terminal-system-monitor) |
---
+
 
 ## Stats
 
@@ -47,7 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapschauhan&layout=compact&theme=tokyonight&hide_border=true&card_width=400" height="165" />
 </p>
 
---
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="280px">
