@@ -3,7 +3,7 @@
 <h1 align="center">hi, i'm krishna</h1>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2szbGRscXFxdXA4MHloaHhvZ3htNXgxcXhodnhkNnNuczJ5dXY0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/10y00L5OqWgHD2/giphy.gif" width="100%">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3l3cjNlbmZua2JvaWZzZ2JzYmoxYjhrMW1pd2lvajdvN3pwODZ5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xd22iKsu0Wn0Q/giphy.gif" width="100px">
 </p>
 
 <p align="center">Full-Stack Developer · Building clean, scalable web apps · Open to opportunities</p>
