@@ -23,15 +23,15 @@
 ## 📈 Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=krishnapschauhan&theme=tokyonight&hide_border=true&card_width=400" height="100" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapschauhan&layout=compact&theme=tokyonight&hide_border=true&card_width=400" height="100" />
+  <img src="https://streak-stats.demolab.com?user=krishnapschauhan&theme=tokyonight&hide_border=true&card_width=400" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapschauhan&layout=compact&theme=tokyonight&hide_border=true&card_width=400" height="180" />
 </p>
 
 <br>
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="280px">
+  <img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" width="180px">
   <br><br>
   <em>"Babumoshai, zindagi badi honi chahiye, lambi nahi."</em>
 </p>
