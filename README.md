@@ -12,7 +12,7 @@
 
 ## ⚡ Arsenal
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,angular,tailwind,nodejs,express,postgres,mongodb,git,postman" height="40" />
+<img align="center" src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,angular,tailwind,nodejs,express,postgres,mongodb,git,postman" height="40" />
 
 ## Stats
 
