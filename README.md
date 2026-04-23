@@ -1,10 +1,14 @@
 <img src="./240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Banner" width="100%">
 
-<h3 align="center">hi, i'm krishna &nbsp;<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFvbjJ5dmRheWMzYmljbWtycWpnd2pkbnllcGIwYXVpd3RkZnBucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S5uMJDmtnATLbjjw3h/giphy.gif" width="45px"></h3>
+<p align="center">
+  <img src="https://media.tenor.com/7t4bBXbzI7wAAAAi/chill-guy-pixel-art.gif" width="100px">
+</p>
 
-Full-Stack Developer · Building clean, scalable web apps · Open to opportunities
+<h1 align="center">hi, i'm krishna</h1>
 
-🌱 Learning Next.js & MongoDB &nbsp;·&nbsp; 💡 Into Open Source & Competitive Programming &nbsp;·&nbsp; 📫 [GitHub](https://github.com/krishnapschauhan)
+<p align="center">Full-Stack Developer · Building clean, scalable web apps · Open to opportunities</p>
+
+<p align="center">🌱 Learning Next.js & MongoDB &nbsp;·&nbsp; 💡 Into Open Source & Competitive Programming &nbsp;·&nbsp; 📫 <a href="https://github.com/krishnapschauhan">GitHub</a></p>
 
 ---
 
