@@ -8,7 +8,7 @@
 
 <p align="center">Full-Stack Developer · Building clean, scalable web apps · Open to opportunities</p>
 
-<p align="center"> &nbsp;·&nbsp; 💡 Into Open Source & Competitive Programming &nbsp;·&nbsp; 📫 <a href="https://github.com/krishnapschauhan">GitHub</a></p>
+<p align="center"> &nbsp;&nbsp; 💡 Into Open Source & Competitive Programming &nbsp;·&nbsp; 📫 <a href="https://github.com/krishnapschauhan">GitHub</a></p>
 
 <br>
 
