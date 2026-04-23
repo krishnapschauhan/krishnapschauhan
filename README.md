@@ -1,50 +1,46 @@
-# Hi, I'm Krishna 👋
+<img src="./240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Banner" width="100%">
 
-Full-Stack Developer · CSE Student · Building clean, scalable web apps with Python & Node.js
+# Hi, I'm Krishna &nbsp;👋
 
----
+Full-Stack Developer · Building clean, scalable web apps · Open to opportunities
 
-## About
-
-I'm a Computer Science student passionate about problem-solving and building real-world projects. I enjoy working across the full stack — from designing clean UIs to building robust backend systems.
-
-- 🌱 Currently learning **Next.js**, **MongoDB**, and sharpening my **DSA** skills
-- 💡 Interested in **Open Source**, **Competitive Programming**, and **Web Development**
-- 📫 Reach me on [GitHub](https://github.com/krishnapschauhan)
+🌱 Learning Next.js & MongoDB · 💡 Into Open Source & Competitive Programming · 📫 [GitHub](https://github.com/krishnapschauhan)
 
 ---
 
 ## Tech Stack
 
-**Frontend** — HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS
-
-**Backend** — Node.js, Express, Python
-
-**Databases** — MySQL, PostgreSQL, MongoDB
-
-**Tools** — Git, GitHub, Postman, VS Code
-
-**Libraries** — OpenCV, Pandas, NumPy
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
 
 ---
 
 ## Projects
 
-| Project | Description | Tech | Links |
-|---------|-------------|------|-------|
-| 🧰 **Base Care** | Complaint & service management system | React, TypeScript, Tailwind, Node.js, Express, PostgreSQL | [Live](https://base-care.vercel.app) · [Code](https://github.com/krishnapschauhan/Base-Care) |
-| 👕 **Vastra Lok** | Modern e-commerce clothing platform | React, Node.js, Express, MongoDB, Razorpay, Stripe | [Live](https://vastralok.vercel.app) · [Code](https://github.com/krishnapschauhan/vastra-lok) |
-| 🦉 **NightOwl Journal** | Minimal journaling app to write, save & organize thoughts | Next.js, TypeScript, Tailwind, Clerk, Prisma | [Live](https://nightowl-journal.vercel.app/) · [Code](https://github.com/krishnapschauhan/nightowl-journal) |
-| 📊 **Sorting Visualizer** | Interactive sorting algorithm visualizer | HTML, CSS, JavaScript | [Live](https://krishnapschauhan.github.io/sorting-visualizer) · [Code](https://github.com/krishnapschauhan/sorting-visualizer) |
-| 🖥️ **Terminal System Monitor** | CLI tool for real-time CPU, memory & disk monitoring | Node.js | [Code](https://github.com/krishnapschauhan/terminal-system-monitor) |
-| 📝 **QuickNote** | Minimal notes app with local storage | React, CSS | [Live](https://krishnapschauhan.github.io/quicknote) · [Code](https://github.com/krishnapschauhan/quicknote) |
-| ✋ **Finger Counting** | Real-time finger detection using computer vision | Python, OpenCV, MediaPipe | [Code](https://github.com/krishnapschauhan/fingercounting) |
-| 💸 **Expense Tracker** | Simple expense tracking app | HTML, CSS, JavaScript | [Code](https://github.com/krishnapschauhan/expense-tracker) |
+| Project | Description | Stack | Links |
+|:--------|:------------|:------|:-----:|
+| 🧰 Base Care | Complaint & service management system | React · TypeScript · Tailwind · Node · Express · PostgreSQL | [Live](https://base-care.vercel.app) · [Code](https://github.com/krishnapschauhan/Base-Care) |
+| 👕 Vastra Lok | Modern e-commerce clothing platform | React · Node · Express · MongoDB · Razorpay · Stripe | [Live](https://vastralok.vercel.app) · [Code](https://github.com/krishnapschauhan/vastra-lok) |
+| 🦉 NightOwl Journal | Minimal journaling app to write & organize thoughts | Next.js · TypeScript · Tailwind · Clerk · Prisma | [Live](https://nightowl-journal.vercel.app/) · [Code](https://github.com/krishnapschauhan/nightowl-journal) |
+| 📊 Sorting Visualizer | Interactive sorting algorithm visualizer | HTML · CSS · JavaScript | [Live](https://krishnapschauhan.github.io/sorting-visualizer) · [Code](https://github.com/krishnapschauhan/sorting-visualizer) |
+| 🖥️ Terminal System Monitor | CLI tool for real-time CPU, memory & disk stats | Node.js | [Code](https://github.com/krishnapschauhan/terminal-system-monitor) |
+| 📝 QuickNote | Minimal notes app with local storage | React · CSS | [Live](https://krishnapschauhan.github.io/quicknote) · [Code](https://github.com/krishnapschauhan/quicknote) |
+| ✋ Finger Counting | Real-time finger detection via computer vision | Python · OpenCV · MediaPipe | [Code](https://github.com/krishnapschauhan/fingercounting) |
+| 💸 Expense Tracker | Simple expense tracking app | HTML · CSS · JavaScript | [Code](https://github.com/krishnapschauhan/expense-tracker) |
 
 ---
 
-## GitHub Stats
+## Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=krishnapschauhan&theme=dark)](https://git.io/streak-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapschauhan&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=krishnapschauhan&theme=dark&hide_border=true)](https://git.io/streak-stats) &nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapschauhan&layout=compact&theme=tokyonight&hide_border=true)
