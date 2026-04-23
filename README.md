@@ -1,6 +1,6 @@
 <img src="./240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Banner" width="100%">
 
-<h1 align="left">Hi, I'm Krishna &nbsp;<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFvbjJ5dmRheWMzYmljbWtycWpnd2pkbnllcGIwYXVpd3RkZnBucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S5uMJDmtnATLbjjw3h/giphy.gif" width="45px"></h1>
+<h3 align="center">hi, i'm krishna &nbsp;<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejFvbjJ5dmRheWMzYmljbWtycWpnd2pkbnllcGIwYXVpd3RkZnBucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S5uMJDmtnATLbjjw3h/giphy.gif" width="45px"></h3>
 
 Full-Stack Developer · Building clean, scalable web apps · Open to opportunities
 
