@@ -10,16 +10,24 @@
 
 <p align="center">🌱 Learning Next.js & MongoDB &nbsp;·&nbsp; 💡 Into Open Source & Competitive Programming &nbsp;·&nbsp; 📫 <a href="https://github.com/krishnapschauhan">GitHub</a></p>
 
-## ⚡ Arsenal
+<br>
 
-<img align="center" src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,angular,tailwind,nodejs,express,postgres,mongodb,git,postman" height="40" />
+## ⚡ Stack
 
-## Stats
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,angular,tailwind,nodejs,express,postgres,mongodb,git,postman" height="40" />  
+</p>
+
+<br>
+
+## 📈 Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=krishnapschauhan&theme=tokyonight&hide_border=true&card_width=400" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapschauhan&layout=compact&theme=tokyonight&hide_border=true&card_width=400" height="165" />
 </p>
+
+<br>
 
 
 <p align="center">
