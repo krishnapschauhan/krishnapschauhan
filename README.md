@@ -13,20 +13,35 @@
 
 ## Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=white&style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
+**Languages**
 
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py&perline=10" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind&perline=10" />
+</p>
+
+**Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=10" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb&perline=10" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,postman&perline=10" />
+</p>
 
 ## Projects
 
