@@ -1,6 +1,6 @@
 <img src="./240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Banner" width="100%">
 
-<h1 align="center">hi, i'm krishna</h1>
+<h1 align="center">Hi, I'm Krishna</h1>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3l3cjNlbmZua2JvaWZzZ2JzYmoxYjhrMW1pd2lvajdvN3pwODZ5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xd22iKsu0Wn0Q/giphy.gif" width="100px">
