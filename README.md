@@ -1,4 +1,4 @@
-<img src="./240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" alt="Banner" width="100%">
+<img src="./github-banner.jpeg" alt="Banner" width="100%">
 
 <h1 align="center">Hi, I'm Krishna</h1>
 
