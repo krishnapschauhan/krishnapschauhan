@@ -1,5 +1,5 @@
 <img src="./github.jpeg" alt="Banner" width="100%">
-<p>life is code.</p>
+<p>hey,i'm krishna</p>
 <p>
   <a href="https://creative-krishna.vercel.app/" target="_blank">me</a> -
   <a href="http://www.linkedin.com/in/krishnapratapsinghchauhan" target="_blank">linkedin</a> -
