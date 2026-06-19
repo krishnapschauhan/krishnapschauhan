@@ -1,4 +1,4 @@
-<img src="./gity.jpeg" alt="Banner" width="100%">
+<img src="./github.jpeg" alt="Banner" width="100%">
 <p>life is code.</p>
 <p>
   <a href="https://creative-krishna.vercel.app/" target="_blank">me</a> -
