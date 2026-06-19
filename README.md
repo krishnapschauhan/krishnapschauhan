@@ -17,10 +17,8 @@
 <p align="center">
 
 </p>
-<p align="left">
 <p>
 <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,angular,tailwind,nodejs,express,postgres,mongodb,git,postman" height="40" /> 
-</p>
 </p>
 <br>
 
