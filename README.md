@@ -19,10 +19,7 @@
 </p>
 <p align="left">
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react">
+<img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,angular,tailwind,nodejs,express,postgres,mongodb,git,postman" height="40" /> 
 </p>
 </p>
 <br>
@@ -35,6 +32,10 @@
 </p>
 
 <br>
+
+<p align="center">
+  <img src="./krishnapschauhan-space-shooter.gif" alt="Banner" width="100%">
+</p>
 
 
 <p align="center">
