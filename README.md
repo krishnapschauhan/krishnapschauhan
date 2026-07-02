@@ -1,4 +1,4 @@
-<img src="./git.gif" alt="Banner" width="100%" heigt="260px">
+<img src="./git.gif" alt="Banner" width="100%" height="260px">
 <p>hey,i'm krishna</p>
 <p>
   <a href="https://creative-krishna.vercel.app/" target="_blank">me</a> -
